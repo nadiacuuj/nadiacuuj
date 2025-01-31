@@ -10,7 +10,7 @@ Now, I bring that same curiosity, creativity, and data-driven mindset to **data 
 - 🏫 Junior at **New York University (NYU)**
 - 💡 Seeking a **Summer 2025 internship** in **data science, machine learning, or analytics**  
 - 📚 Passionate about **AI, pattern recognition, and real-world applications of data**
-- 🎷 In my free time, I add saxophone solos to songs where they have no business being in  
+- 🎷 In my free time, you might find me adding saxophone solos to songs where they have no business being in  
 
 ### 📬 Get in Touch  
 - 📧 Email: [nadia.chan@nyu.edu](mailto:nadia.chan@nyu.edu)  
