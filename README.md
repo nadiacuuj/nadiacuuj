@@ -2,7 +2,7 @@
 
 I've always had a knack for uncovering hidden patterns—whether in data, music, or storytelling. Two decades as a die-hard Taylor Swift fan sharpened my ability to spot hidden patterns—decoding Easter eggs, tracking number sequences, and making wild (but often accurate) predictions.  
 
-This fascination only deepened when my dad introduced his favorite show, *Numb3rs*, to me as a kid. I vividly remember how captivated I was by how Charlie Eppes used math to solve complex problems, like locating a murder suspect by analyzing water droplets from a sprinkler.  
+This fascination only deepened when my dad introduced his favorite show, *Numb3rs*, to me as a kid. I vividly remember how captivated I was by how Charlie Eppes used math in the most insane;y beautiful way possible, like locating a murder suspect by analyzing water droplets from a sprinkler.  
 
 Now, I bring that same curiosity, creativity, and data-driven mindset to **data science**, blending analytical thinking with problem-solving to extract meaningful insights from complex systems.  
 
