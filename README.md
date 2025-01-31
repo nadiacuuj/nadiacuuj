@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Nadia
 
 I've always had a knack for uncovering hidden patterns—whether in data, music, or storytelling. Two decades as a die-hard Taylor Swift fan sharpened my ability to spot hidden patterns—decoding Easter eggs, tracking number sequences, and making wild (but often accurate) predictions.  
 
