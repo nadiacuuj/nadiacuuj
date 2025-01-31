@@ -6,11 +6,6 @@ This fascination only deepened when my dad introduced his favorite show, *Numb3r
 
 Now, I bring that same curiosity, creativity, and data-driven mindset to **data science**, blending analytical thinking with problem-solving to extract meaningful insights from complex systems.  
 
-### 🚀 What I'm Working On
-- 🔍 Exploring **data science, machine learning, and predictive modeling**  
-- 📊 Using data to solve **real-world challenges**  
-- 🎭 Finding patterns in unexpected places (yes, even in music 🎵)  
-
 ### 📌 About Me
 - 🏫 Junior at **New York University (NYU)**
 - 💡 Seeking a **Summer 2025 internship** in **data science, machine learning, or analytics**  
