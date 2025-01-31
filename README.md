@@ -17,8 +17,8 @@ Now, I bring that same curiosity, creativity, and data-driven mindset to **data 
 - 📚 Passionate about **AI, pattern recognition, and real-world applications of data**  
 
 ### 📬 Get in Touch  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 📝 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 Email: [nadia.chan@nyu.edu](mailto:nadia.chan@nyu.edu)  
+- 📝 [LinkedIn](https://www.linkedin.com/in/nadiacwj)  
 - 🌎 [Portfolio](https://yourwebsite.com) *(if applicable)*  
 
 ---
