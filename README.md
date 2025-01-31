@@ -13,7 +13,5 @@ Now, I bring that same curiosity, creativity, and data-driven mindset to **data 
 
 ### 📬 Get in Touch  
 - 📧 Email: [nadia.chan@nyu.edu](mailto:nadia.chan@nyu.edu)  
-- 📝 [LinkedIn](https://www.linkedin.com/in/nadiacwj)  
-- 🌎 [Portfolio](https://yourwebsite.com) *(if applicable)*  
 
 ---
